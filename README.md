@@ -43,6 +43,16 @@ in German and English. Instead of a stock hero image, the page opens on a **3D "
   <br><sub>The room the camera flies into, rendered in Blender Cycles (furniture: CC0 assets from Poly Haven).</sub>
 </p>
 
+## Screenshots
+
+Captured from the live site.
+
+<table>
+  <tr><td width="50%"><img src="assets/screens/01-hero-night.webp" alt="The 3D street at night with lit windows and a listing card"></td><td width="50%"><img src="assets/screens/02-hero-day.webp" alt="The same 3D street in day mode"></td></tr>
+  <tr><td width="50%"><img src="assets/screens/03-metro-pipeline.webp" alt="A metro-map explainer: five portals merge into one line to the phone"></td><td width="50%"><img src="assets/screens/04-city-vote.webp" alt="A map of Austria where visitors vote for the next city"></td></tr>
+  <tr><td width="50%"><img src="assets/screens/05-typing-letter.webp" alt="A self-typing application letter demo"></td><td width="50%"><img src="assets/screens/06-mobile.webp" alt="The hero on a phone"></td></tr>
+</table>
+
 ## Engineering highlights
 
 - **Blender to browser pipeline.** The scene is exported as glTF and compressed with
